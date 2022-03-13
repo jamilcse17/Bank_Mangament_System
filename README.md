@@ -1,0 +1,2 @@
+# Bank_Mangament_System
+The Bank Management System was develop in a simple console application, you can only access the full feature of the system by by entering the system password. The user can do many things in the system in the system, he/she can create new customer account, deposit funds, withdraw cash, modify account detail. The system will provide the necessary functionality that help you manage your bank accounts.Bank Management System Features: Create New Account Deposit Funds Withdraw Funds Check Balances View All Account Holder
